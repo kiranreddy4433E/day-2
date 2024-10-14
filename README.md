@@ -39,8 +39,7 @@ Today, I worked on the following:
 
 ---
 
-**[100 Days of Code](https://www.100daysofcode.com/)** is a challenge created by Alexander Kallaway. Join the community using the hashtag `#100DaysOfCode` on Twitter and other social platforms.
-
+**[100 Days of Code](https://www.100daysofcode.com/)** is a challenge created by Ajinka Kulakarni, Amit Prabhu. You can find more information about it and join the community using the hashtag `#100DaysOfCode` on Linked in.
 
 ```java
 
